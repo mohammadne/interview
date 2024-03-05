@@ -4,3 +4,5 @@
 - thread vs process
 - heap vs stack memory
 - concurrency and parallelism
+- what is hugepage
+- cpu architectures
