@@ -1,5 +1,9 @@
 # Algorithm
 
+- [quick review](https://www.geeksforgeeks.org/learn-data-structures-and-algorithms-dsa-tutorial/)
+
+- [complete tutorial](https://www.programiz.com/dsa)
+
 - graph / tree / searches / greedy
 - <https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe>
 - check these repositories
