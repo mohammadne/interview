@@ -1,4 +1,14 @@
-# Algorithm
+# DSA
+
+## Data Structure
+
+- trie
+
+- dijikstra
+
+- [Bloom Filters](https://www.geeksforgeeks.org/bloom-filters-introduction-and-python-implementation/)
+
+## Algorithm
 
 - [quick review](https://www.geeksforgeeks.org/learn-data-structures-and-algorithms-dsa-tutorial/)
 

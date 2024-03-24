@@ -7,6 +7,7 @@
 
 ## Logging
 
+- elk
 - fluentd and fluentbit
 - Loki
 

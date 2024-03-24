@@ -1,6 +1,11 @@
 # System Design
 
-- baseapi (api gateway)
+- A great tutorial with microsoft is [here](https://learn.microsoft.com/en-us/azure/architecture/patterns/)
+- Another greate tutorial is [here](https://microservices.io/patterns/index.html)
+
+## Questions
+
+- api gateway
 - Micro Service Vs Service Oriented
 - deployment strategies
 - distributed tracing (agent vs collector)
@@ -12,6 +17,7 @@
 - consideration for URL shortner application
 - Circuit breaker
 - Event Bus
+- [CAP theorem](https://www.youtube.com/watch?v=_RbsFXWRZ10)
 
 - what do you do to handle 100k rps to a server? bandwidth of the datacenter will be fulfilled.
 
@@ -24,8 +30,10 @@
 - <https://www.linkedin.com/advice/0/what-some-common-distributed-locking-patterns>
 - [Distributed Locks](https://www.youtube.com/watch?v=v7x75aN9liM)
 - <https://davidecerbo.medium.com/everything-i-know-about-distributed-locks-2bf54de2df71>
+- [Pessimistic vs Optimistic lock](https://www.youtube.com/watch?v=R-iX1r_7UY0)
 
-- [Distributed transactions](https://www.youtube.com/watch?v=S4FnmSeRpAY)
+- Distributed transactions [here](https://developers.redhat.com/blog/2018/10/01/patterns-for-distributed-transactions-within-a-microservices-architecture) and [here](https://www.youtube.com/watch?v=vGOEO6mO674) and [here](https://microservices.io/patterns/data/saga.html)
+- [Two-Phase Commit (2PC), Three-Phase Commit (3PC), SAGA Pattern](https://www.youtube.com/watch?v=ET_DnJgfplY)
 
 - [Distributed Cache](https://www.youtube.com/watch?v=iuqZvajTOyA)
 
