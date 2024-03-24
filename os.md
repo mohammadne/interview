@@ -5,4 +5,15 @@
 - heap vs stack memory
 - concurrency and parallelism
 - what is hugepage
-- cpu architectures
+
+- how processes talk to each other?
+  - IPC
+
+- <https://www.uber.com/blog/avoiding-cpu-throttling-in-a-containerized-environment/>
+- <https://www.numeratorengineering.com/requests-are-all-you-need-cpu-limits-and-throttling-in-kubernetes/>
+- cpu architectures (NUMA)
+- CPU Scheduling Algorithms
+- CPU Share
+- Throttling
+- Throughput and Latency (opposite)
+- Burst time

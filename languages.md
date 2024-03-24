@@ -10,7 +10,7 @@
 - directory structure
 - worker pool
 - gracefully shutdown
-- thread vs go routines (who manages) (<https://go.dev/doc/effective_go#concurrency>)
+- thread vs goroutines (who manages) (<https://go.dev/doc/effective_go#concurrency>)
 - struct and slice and ...
 - pass by reference and value
 - channels (buffered and unbuffered)
@@ -30,3 +30,4 @@
   - thread vs process
   - dining philosopher problem
   - offline transaction vs online transaction
+  - [patterns](https://medium.com/@gopinathr143/go-concurrency-patterns-a-deep-dive-a2750f98a102)
