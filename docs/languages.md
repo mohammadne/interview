@@ -6,11 +6,11 @@
 ## Go
 
 - how we handle errors and propagate them?
-- <https://gobyexample.com/>
+- [gobyexample](https://gobyexample.com)
 - directory structure
 - worker pool
 - gracefully shutdown
-- thread vs goroutines (who manages) (<https://go.dev/doc/effective_go#concurrency>)
+- [thread vs goroutines (who manages)](https://go.dev/doc/effective_go#concurrency)
 - struct and slice and ...
 - pass by reference and value
 - channels (buffered and unbuffered)
