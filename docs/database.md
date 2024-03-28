@@ -1,12 +1,15 @@
+---
+sidebar_position: 1
+---
+
 # Database
 
 - Sharding and Clustering
 
 ## SQL
 
-- ACID in transactions
-- <https://www.databricks.com/glossary/acid-transactions>
-- <https://fauna.com/blog/database-transaction>
+- [ACID in transactions](https://www.databricks.com/glossary/acid-transactions)
+- [Database Transaction](https://fauna.com/blog/database-transaction)
 - [isolation level (I in ACID)](https://planetscale.com/blog/mysql-isolation-levels-and-how-they-work)
 
 - In master-slave architecture for sql databases how we ensure consistency if one of the slaves failed and the recent data can't be updated there?

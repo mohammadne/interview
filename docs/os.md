@@ -9,8 +9,8 @@
 - how processes talk to each other?
   - IPC
 
-- <https://www.uber.com/blog/avoiding-cpu-throttling-in-a-containerized-environment/>
-- <https://www.numeratorengineering.com/requests-are-all-you-need-cpu-limits-and-throttling-in-kubernetes/>
+- [cpu throttling](https://www.uber.com/blog/avoiding-cpu-throttling-in-a-containerized-environment)
+- [k8s limits](https://www.numeratorengineering.com/requests-are-all-you-need-cpu-limits-and-throttling-in-kubernetes)
 - cpu architectures (NUMA)
 - CPU Scheduling Algorithms
 - CPU Share

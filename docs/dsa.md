@@ -14,11 +14,12 @@
 
 - [complete tutorial](https://www.programiz.com/dsa)
 
+- [must do coding questions](https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe)
+
 - graph / tree / searches / greedy
-- <https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe>
 - check these repositories
-    <https://github.com/shomali11/go-interview>
-    <https://github.com/mohammadne/challanges>
+    [go-interview](https://github.com/shomali11/go-interview)
+    [challanges](https://github.com/mohammadne/challanges)
 
 ## Questions
 

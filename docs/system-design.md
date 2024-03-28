@@ -27,9 +27,8 @@
 - [gcra](https://itnext.io/building-a-smart-faq-application-with-golang-langchain-redis-openai-part-1-intelligent-6f7fddaaffa0)
 
 - locks - mutex - semaphor
-- <https://www.linkedin.com/advice/0/what-some-common-distributed-locking-patterns>
 - [Distributed Locks](https://www.youtube.com/watch?v=v7x75aN9liM)
-- <https://davidecerbo.medium.com/everything-i-know-about-distributed-locks-2bf54de2df71>
+- Distributed Locking [here](https://www.linkedin.com/advice/0/what-some-common-distributed-locking-patterns) and [here](https://davidecerbo.medium.com/everything-i-know-about-distributed-locks-2bf54de2df71)
 - [Pessimistic vs Optimistic lock](https://www.youtube.com/watch?v=R-iX1r_7UY0)
 
 - Distributed transactions [here](https://developers.redhat.com/blog/2018/10/01/patterns-for-distributed-transactions-within-a-microservices-architecture) and [here](https://www.youtube.com/watch?v=vGOEO6mO674) and [here](https://microservices.io/patterns/data/saga.html)

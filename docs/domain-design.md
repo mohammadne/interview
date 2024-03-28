@@ -1,8 +1,7 @@
 # Domain Design
 
-## Design Patterns
+## [Design Patterns](https://refactoring.guru/design-patterns/catalog)
 
-- <https://refactoring.guru/design-patterns/catalog>
 - Why singleton is anti-pattern
 - how Flutter uses Observer design pattern to update the UI
 
@@ -26,4 +25,4 @@
 
 ## Solid
 
-- <https://stackoverflow.com/questions/6550700/inversion-of-control-vs-dependency-injection>
+- [IoC](https://stackoverflow.com/questions/6550700/inversion-of-control-vs-dependency-injection)
